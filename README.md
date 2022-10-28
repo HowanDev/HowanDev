@@ -7,29 +7,63 @@
 ## 🛠️ My Skills
 
 ### 💪 Programming Languages I know
+<!-- https://github.com/danmadeira/simple-icon-badges -->
 <p> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-101010?logo=data:image/png;base64,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">
+  <a href="" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
   </a>
   
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C%23-101010?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAIA0lEQVR42t1ZZXTbSBfVx8zMWCY3LnehaOdjZmZmDDs1BwxJLIexGKbddbfMzMxt2Ok2nJj9dp5O9SMlj2WZes+55xiluXfmwYyYSKP2O7Wva5ZZvtcqZ3e1yNkBwrstieyOVrn1u/gd8zSjRW5ZSQSfIYRHkZhykfwm8akT3ram6JPNcrYaRVKyrX0N+9m4F75Vlv22lkSLgghyEEKQdLXKLOYXv5D3zrgTDgy8pllu+SkR0UsIIbKnVcb+Nm7yQ2uiZSERfzBk4Q/nh+NtiZZnYjfOv2z92P049xNCGNn2whcLPhUzwmu/Y3gLmZ3/kYGNEkKEOE7M1tWusLw9quJJPf8KGcwtQogKZWwX5hrMOZFd7vKCBDKAvZESSpEfjrR+gV0SduGNqwveh6WJ3NRLCDFGP+agF75o+bDowoukRW8gHdrfyE2GCCHGOYa9x64VFW8WRTxxdQ22qHjxOOM1ssf4jmDh7TLrbHKRbWINaOsPKuGEfhvcbDkH/Sc7YeTOAEzYRwlHYOj6Xeg/3gHX60/Dcc3LYPt+hZhGbEMtQW5arP8if3SHnJy+WMiJvnumG/x+P9DC7/NzhhzXboPWL1jFMMFFKtY/aJf8n8RwHmdyvHcYQsVoxyAcU20VazX8PvDmRc4Oh3IT2/crudkTGz0HboLte8JDo3ZFHpQmZHk3rsh5/+Pru4z9eiji9/6tAZwDExAuOO6Nw+4/1gY1pobVBVC+IBvY2VqOlYtyVY9f/onWvwoVfzCpFbwON4Qbngk3HPhfS8DxNK21QNUSA4qexIrFOQ3M40DKRpLAmacQL6oJj18JMhY2PWuGwrk6FPywAQtzbaIagDGPyz7ScLwy9lC5xDgvmZ/Fi42MAZjwooWe/Tf4OCfCcniRkTMAS50QuEed0H+iEzq2XYY7totgP3YHXMOO4ENh3AXN360A6xxuuUfWAGxygq3z9873wqHkNmj7UuFD18OG5yD5DpumQMCm6kb7BahZnc8Li7wBJ/TbgRY+txdOGXZRr6xTuTvB5/LCo3D3bA80/6iKFxQ1A3CmqMUf+G9L0JXlwH+aJ5kwbh+BPSntwM7hhETVANzY0Pb2/MwL4inDTvA6PXCm7BCULMzlRUTfANzgUMZ8SL375ufMJM4LniioRsbCYdNuaP/9Fu596RID937b/1rDZwBuaSmACU+Q8PpV+VAmzaKa0dZfbwLExfrT3Ptq0gEiuo93hM8A3M9TlDo+21OzaU0BVC3KpY7z7qN3uBBB+Lw+cE+4weNw81tq7n3LrzaKbwAeZgQA1nl68TILbFhu4ttXanbsvwkuYjQCjXAMTIBzyAEIn8fHvW/+xQbxDZjoH4VA6Hj5MmWcm6B4np5eeCyEAB5jBcId26UnC19lBt2cTFDNzIAiSZwZgGd4gYDt7SP35yTOTVINJH0+Gf7/uSSekDtHBYXzgguBy81nYej2ACBwufdf7IVXrvYDwj3u4t43/LAqKkkQe/tJ53nNcgsULs6ClCm88IeZ/LkUyJNoqXOBnXSFgdD2283iG4CntzQ4eL8MVj9rgHUz0lEkFRXT0qBwvi5gNcCa/9LfGgBxpfUclC03wpZvlAKi91QXvierSi++AXhaSwM7GYR+biaKEkTtrEyo+07ZE03Y+OUiOL/5JGz7bwv3vmyZkXt/QL89fDkADyf9pO7SoO5/9YINqP9/A9dyX2w7C9VrCmKnFUZinaeBh9Tn4h+WBC2+5Mel4HF5gIdr3AWH8nZDkTQ7SgYIPwxBE4JaCTjz+J9HYaBjAGz/bIy+AZjhRzsHIRjcOHwDyn9eDslTUx4SjZ/hdzeP3AQa3D50A2q/VRY9AxplFrD9vxmEYHxwAq7svQrHao8h8TX5bByCBfb/679TgmUzcgZgPS9dlgPp01K5mTv30jmIFi5su8CNIX1qKljn68EabgM2PG8C9ayMSUtXvUQDw33DEGkM9QyBapF68lj4tlpsA+pW50OuRAVJn3t0F2f8ggkcIw6IFJxjTjB/Oe+RY+Hb6qJ5Qh6MyC1/e/DxErtIB8mfT6YqWziwMAONpiqrOOZ8ifahI/PyRbmNAR+OYpyXL8+BjOlcnFMz7yv5MGIfgXBh2D7Mzzw1M/m2mubhKD4e37DCNKaZrRDcvSkXquC87TyIDEy2eG3B49KRtrp4foDH44hciXIj/iFUrv/TBrBft0OosF+zc9cSY0wGibKGoUG2RNXMJ7xQmDQlGTb+dRNc2XMFa3ZQ9f3y7iuw8S8b8RohjwO1EE0Y+/Rgpfqvq2Zl3BPDeT40UNDekr1c49N9oRsGuwZhoHMAX3Of7Snei7/hl7ooRA2ohREKY4Lqv5nT05x4sXhi+vRUtyFBaWDEgEKqeCsuIXKa44914Vj+siTrdldIjO9mxIZ5sXKKfs660/x5XiwR41w7O/OGKUE9lwk38qXqHypnpQ/FinjlzLQxo1T7aybSMEhVShJrnmgJT5ua6jVI1EUKRvFaJlowLFW8N0ey7kUSe/6IxfkUEufzlIdKFps+xMQK2MVaKcYgxmI445x0qZ2WhbplTKzCLNX8TDkjfURs8Zkz0sdNUtUfmXgAxiTGJolRX+hxnuLDFlaxQvF6Jt5gXab4INZkIWUz6fNJgCXXutTwMSbeUSDVLMb8QCtePVvRxy7UPM88bchPUP9DMT3N8Tjh2HIbEjTJzNMMxSzFG40JapNqlmIgdWqyP3VKig83LNi343dMhPEqMxcy3618sO0AAAAASUVORK5CYII=">
+  <a href="" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white"/>
   </a>
 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++-101010?logo=c%2B%2B">
+  <a href="" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
 </p>
 
 ### 📚 Languages I'll learn one day...
 <p> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="GO Lang" src="https://img.shields.io/badge/GO-101010?logo=go">
+  <a href="" target="_blank">
+    <img alt="GO Lang" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
   </a>
   
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/Python-101010?logo=python">
+  <a href="" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  
+  <a href="" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+
+</p>
+
+### 🧰 Tools I use to get the job done
+<p> 
+  <a href="" target="_blank">
+    <img alt="Intellij IDEA 2022" src="https://img.shields.io/badge/Intellij_IDEA-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white"/>
+  </a>
+  
+  <a href="" target="_blank">
+    <img alt="Visual Studio 2019" src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  </a>
+  
+  <a href="" target="_blank">
+    <img alt="Visual Studio Code 2022" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   </a>
 </p>
 
-### Tools I use to get the job done!
+### 🖥️ Whats it's all running on
+<p> 
+  <a href="" target="_blank">
+    <img alt="Ubuntu 22.04 LTS" src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  </a>
+  
+  <a href="" target="_blank">
+    <img alt="Windows 10 21H2" src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+  </a>
+  
+  <a href="" target="_blank">
+    <img alt="Hopes and Dreams" src="https://img.shields.io/badge/Hopes_and_Dreams-%23E71D29.svg?&style=for-the-badge&logo=undertale&logoColor=white"/>
+  </a>
+</p>
