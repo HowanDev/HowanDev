@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @HowanDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="right" alt="(It's a cat waving :OOO)" src="https://tenor.com/view/hey-cat-waving-wave-paw-gif-18029335.gif" height="300">
+  
+# ✨ Hello, Im Howan!
+- 👨🏽‍💻 Working hard on becoming well-rounded in everything...
+- 🏆 When I do something, it has to be perfect in every aspect
+- 🎭 If something is legacy, throw it away and remake it better
+- 🎮 I'm not just coding... I love playing games, music and airsoft!
 
 ## 🛠️ My Skills
 
@@ -29,6 +31,10 @@
   </a>
   
   <a href="" target="_blank">
+    <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+  </a>
+  
+  <a href="" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   </a>
   
@@ -50,6 +56,10 @@
   
   <a href="" target="_blank">
     <img alt="Visual Studio Code 2022" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  </a>
+  
+  <a href="" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   </a>
 </p>
 
