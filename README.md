@@ -1,4 +1,4 @@
-<img align="right" alt="(It's a cat waving :OOO)" src="https://tenor.com/view/hey-cat-waving-wave-paw-gif-18029335.gif" height="300">
+<img align="right" alt="(It's a cat waving :OOO)" src="https://i.imgur.com/bjMbGO6.png" height="300">
   
 # ✨ Hello, Im Howan!
 - 👨🏽‍💻 Working hard on becoming well-rounded in everything...
