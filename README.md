@@ -12,7 +12,7 @@
 <!-- https://github.com/danmadeira/simple-icon-badges -->
 <p> 
   <a href="" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   </a>
   
   <a href="" target="_blank">
