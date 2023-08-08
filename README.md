@@ -1,4 +1,4 @@
-<img align="right" alt="(It's a cat waving :OOO)" src="https://i.imgur.com/bjMbGO6.png" height="300">
+<img align="right" alt="Awesome picture of a Capybara!" src="https://i.imgur.com/bjMbGO6.png" height="300">
   
 # ✨ Hello, Im Howan!
 - 👨🏽‍💻 Working hard on becoming well-rounded in everything...
@@ -22,6 +22,14 @@
   <a href="" target="_blank">
     <img alt="C++" src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
+
+  <a href="" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+
+  <a href="" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
 </p>
 
 ### 📚 Languages I'll learn one day...
@@ -37,11 +45,6 @@
   <a href="" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  
-  <a href="" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
-
 </p>
 
 ### 🧰 Tools I use to get the job done
