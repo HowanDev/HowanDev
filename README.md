@@ -1,4 +1,4 @@
-<img align="right" alt="Awesome picture of a Capybara!" src="https://i.imgur.com/bjMbGO6.png" height="300">
+<img align="right" alt="Awesome picture of a Capybara!" src="https://imgur.com/uREbp4n" height="300">
   
 # ✨ Hello, Im Howan!
 - 👨🏽‍💻 Working hard on becoming well-rounded in everything...
